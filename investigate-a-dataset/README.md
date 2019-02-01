@@ -1,5 +1,6 @@
 # Investigate a Soccer Dataset
-To follow through the analysis:
+To follow through:
+
 * Clone this repo
 * Open the `Investigate a Soccer Dataset.ipynb` jupyter notebook and run the cells
 
