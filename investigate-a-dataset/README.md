@@ -1,6 +1,6 @@
 # Investigate a Soccer Dataset
-
-
+Open the `Investigate a Soccer Dataset.ipynb` jupyter notebook and run the cells to walk through the analysis. 
+Original database was truncated to retain only the relevant tables.
 
 ### What I learned
 
