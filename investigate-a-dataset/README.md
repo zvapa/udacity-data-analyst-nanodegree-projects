@@ -1,4 +1,6 @@
 # Investigate a Soccer Dataset
+This is a learning project that performs exploratory data analysis on football players characteristics. 
+
 To follow along:
 
 * Clone this repo.
