@@ -2,7 +2,7 @@
 To follow through the analysis:
 * Clone this repo
 * Open the `Investigate a Soccer Dataset.ipynb` jupyter notebook and run the cells 
-Original database was truncated to retain only the relevant tables.
+<br>Original database was truncated to retain only the relevant tables.
 
 ### What I learned
 
