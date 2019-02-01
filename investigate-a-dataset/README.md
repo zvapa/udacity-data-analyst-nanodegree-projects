@@ -1,7 +1,7 @@
 # Investigate a Soccer Dataset
 This is a learning project that performs exploratory data analysis on football players characteristics. 
 
-To follow along:
+### To follow along:
 
 * Clone this repo.
 * Install Jupyter Notebook, preferably with Anaconda distribution (includes all other dependencies)
