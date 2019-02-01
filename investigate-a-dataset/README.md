@@ -6,11 +6,11 @@ This is a learning project that performs exploratory data analysis on football p
 * Clone this repo.
 * Install Jupyter Notebook, preferably with the Anaconda distribution (includes all other dependencies)
 * Packages required (should be included with Anaconda): 
---* sqlite
---* pandas
---* numpy
---* matplotlib
---* seaborn
+  * sqlite
+  * pandas
+  * numpy
+  * matplotlib
+  * seaborn
 * Download the *European Soccer Database database* from Kagle using [this link](https://www.kaggle.com/hugomathien/soccer/data) & unzip in the root folder of the project.
 * Open the `Investigate a Soccer Dataset.ipynb` jupyter notebook and run the cells.
 
