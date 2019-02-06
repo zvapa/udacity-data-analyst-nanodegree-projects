@@ -13,5 +13,5 @@ A practice application of a hypothesis testing methodology for a ficticious e-co
 
 ## What I learned:
 * data cleaning techniques
-* application of confidence intervals and hypothesis testing
+* application of hypothesis testing and confidence intervals
 * application of logistic regression
