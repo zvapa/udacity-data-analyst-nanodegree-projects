@@ -5,7 +5,7 @@ A practice application of a hypothesis testing methodology for a ficticious e-co
 
 * Clone this repo.
 * Install Jupyter Notebook, preferably with the Anaconda distribution (includes all other dependencies)
-* Packages required (should be included with Anaconda): 
+* Packages required (already included with Anaconda): 
   * pandas
   * numpy
   * matplotlib
