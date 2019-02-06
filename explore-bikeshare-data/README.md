@@ -12,6 +12,3 @@ It's using Pyhon to import US bike share data from csv files and answer question
 ## Usage (command line):
 1. To install dependencies (Pandas): navigate to your cloned repo and run `pip install -r requirements.txt` or `pipenv install` if using `pipenv`
 2. Run `bikeshare.py`
-
-### Notes to students:
-This project has already been submitted to Udacity, which have strict rules regarding plagiarism. If you are enrolled in this nanodegree please try doing the projects yourself before looking at this code, and only use it as an inspiration. Remember that you do yourself a disservice by just copying other people's code. Good luck!
