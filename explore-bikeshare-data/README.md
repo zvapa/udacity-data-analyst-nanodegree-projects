@@ -10,7 +10,7 @@ It's using Pyhon to import US bike share data from csv files and answer question
 * Validate and process console input from user through interactive question-answering
 
 ## Usage (command line):
-1. To install dependencies (Pandas): navigate to *this* folder in your cloned repo and run `pip install -r requirements.txt` or `pipenv install` if using `pipenv`
+1. To install dependencies (Pandas): navigate to your cloned repo and run `pip install -r requirements.txt` or `pipenv install` if using `pipenv`
 2. Run `bikeshare.py`
 
 ### Notes to students:
